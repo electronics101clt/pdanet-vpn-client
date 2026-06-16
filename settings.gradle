@@ -1,0 +1,2 @@
+rootProject.name = "PdaNetClient"
+include ':app'

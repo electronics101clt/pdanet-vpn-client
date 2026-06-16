@@ -1,0 +1,22 @@
+# PDANet Hotspot Detected
+
+**Hotspot Name (SSID)**: DIRECT-30-moto g power-PdaNet
+**Security**: WPA2
+**Signal Strength**: 100% (Excellent)
+**Source**: Moto G Power phone
+
+## To Connect iPhone:
+
+The password is set on your Android phone (Moto G Power).
+
+### Manual Connection:
+1. On iPhone: Settings → WiFi
+2. Select: "DIRECT-30-moto g power-PdaNet"
+3. Enter the password (check PDANet app on Android)
+
+### To Find Password on Android:
+1. Open PDANet+ app on Moto G Power
+2. WiFi Hotspot settings
+3. View password
+
+Cannot automate this - iOS doesn't allow remote WiFi configuration without MDM profiles.

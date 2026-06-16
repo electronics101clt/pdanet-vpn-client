@@ -1,0 +1,68 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+
+android {
+    compileSdk 34
+    namespace 'com.pdanetclient'
+
+    defaultConfig {
+        applicationId "com.pdanetclient"
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+
+        // externalNativeBuild commented out - using pre-built tun2proxy native libraries
+        // externalNativeBuild {
+        //     cmake {
+        //         cFlags "-DANDROID"
+        //         abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86'
+        //     }
+        // }
+    }
+
+    ndkVersion "25.2.9519653"
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    // externalNativeBuild commented out - using pre-built tun2proxy native libraries
+    // externalNativeBuild {
+    //     cmake {
+    //         path "CMakeLists.txt"
+    //         version "3.22.1"
+    //     }
+    // }
+
+    sourceSets {
+        main {
+            java.srcDirs = ['src/main/kotlin']
+        }
+    }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.annotation:annotation:1.7.1'
+}

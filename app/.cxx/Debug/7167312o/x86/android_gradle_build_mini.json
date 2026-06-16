@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/jonathan/Desktop/pdanet-client/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/jonathan/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/jonathan/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "tun2http::@6890427a1f51a3e7e1df": {
+      "artifactName": "tun2http",
+      "abi": "x86",
+      "output": "/home/jonathan/Desktop/pdanet-client/app/build/intermediates/cxx/Debug/7167312o/obj/x86/libtun2http.so",
+      "runtimeFiles": []
+    }
+  }
+}

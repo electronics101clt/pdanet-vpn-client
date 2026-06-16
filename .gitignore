@@ -1,0 +1,20 @@
+# Sensitive files
+*.jks
+*.keystore
+*credentials*
+*password*
+*secret*
+
+# Build outputs
+*.apk
+*.idsig
+build/
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Other
+.DS_Store

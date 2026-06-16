@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/dhcp.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/dhcp.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/dhcp.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/dns.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/dns.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/dns.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/icmp.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/icmp.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/icmp.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/ip.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/ip.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/ip.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/http.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/http.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/http.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/tun2http.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/tun2http.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/tun2http.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/session.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/session.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/session.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/tcp.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/tcp.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/tcp.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/tls.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/tls.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/tls.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/udp.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/udp.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/udp.c"
+},
+{
+  "directory": "/home/jonathan/Desktop/pdanet-client/app/.cxx/Debug/7167312o/arm64-v8a",
+  "command": "/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/home/jonathan/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtun2http_EXPORTS -I/home/jonathan/Desktop/pdanet-client/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DANDROID -fno-limit-debug-info  -fPIC -o CMakeFiles/tun2http.dir/src/main/cpp/util.c.o -c /home/jonathan/Desktop/pdanet-client/app/src/main/cpp/util.c",
+  "file": "/home/jonathan/Desktop/pdanet-client/app/src/main/cpp/util.c"
+}
+]
